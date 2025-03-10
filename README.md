@@ -1,1 +1,1 @@
-fastai course for applying ml in realtime
+fastai course for applying ml in realtime..
